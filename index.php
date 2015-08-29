@@ -10,8 +10,10 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        <br>
         <?php
             echo "Mi primera página.!!";
         ?>
+        <br>
     </body>
 </html>
